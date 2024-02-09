@@ -6,4 +6,3 @@ export const n = 10;
 
 const myexportvalue = 'text';
 module.exports = {myexportvalue};
-
