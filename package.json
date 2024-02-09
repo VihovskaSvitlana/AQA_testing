@@ -1,0 +1,23 @@
+{
+  "name": "aqa_git",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "10.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VihovskaSvitlana/AQA_testing.git"
+  },
+  "author": "Svitlana Vihovska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VihovskaSvitlana/AQA_testing/issues"
+  },
+  "homepage": "https://github.com/VihovskaSvitlana/AQA_testing#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "type": "module"
+}
